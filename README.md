@@ -1,4 +1,4 @@
-# Shortes Job First Algorithm
+# Shortest Job First Algorithm
 
 A simple Shortest Job First Algorithm using VB.NET 2010
 
